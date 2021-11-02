@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>blog của Hoàng</title>
+
+<style>
+body {
+  background-image: url("c8cb23dc08a1751bbd1b1504ad7d95f8.png");
+}
+ul {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+}
+h2 {
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #6f7d6b;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: white;
+  background-color: #db7093;
+  font-weight: bold;
+}
+</style>
+</head>
+
+
+<body>
+<ul>
+  <img src="TECHSOFT-removebg-preview (1).PNG" alt="TECHSOFT" style="width:90px;height:30px;">
+  <li><a href="" >Trang chủ</a></li>
+  <li><a href="" >Về chúng tôi</a></li>
+  <li><a href="" >liên hệ</a></li>
+</ul>
+<hr>
+<hr>
+<hr>
+<h1>Chào mừng bạn đến với blog của tôi!</h1>
+<p>Đây là blog của Vũ Huy Hoàng. Hãy cứ thoải mái khám phá!</p>
+
+<h2>Ngày quan trọng</h2>
+<p><i>06/07/2002</i> - Sinh nhật Vũ Huy Hoàng</p>
+
+<h2>Liên kết</h2>
+<p>Đây là đường dẫn đến Vũ Huy Hoàng: <a href="https://www.facebook.com/hoang.vuhuy.3363">facebook</a></p>
+
+</body>
+</html>
